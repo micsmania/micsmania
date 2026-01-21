@@ -1,9 +1,11 @@
 ## Hi there, my name is Michele 👋
 
+---
+
 ## Who am I?
-💻 **Application Developer** | Passionate about JavaScript  
-🚀 I love building web apps and experimenting new tools.
-👉 Visit my [Portfolio](https://michelesmania.com/)
+- 💻 **Application Developer** | Passionate about JavaScript  
+- 🚀 I love building web apps and experimenting new tools
+- 👉 Visit my [Portfolio](https://michelesmania.com/)
 
 ---
 
