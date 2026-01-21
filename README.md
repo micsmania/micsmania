@@ -1,13 +1,19 @@
 ## Hi there 👋
 
-My name is Michele Smania
+My name is Michele Smania and I am currently attending an Umschulung as Anwendungsentwicklung in Essen, Germany.
 
-## Skills and Technologies
+## 👨🏻‍💻 Skills and Technologies
 - Javascript, Python, Java, PHP
 - Bash, Powershell
 - HTML, CSS, Bootstrap
 - Git
 - VS Code, IntelliJ Idea
+
+## Main Projects
+- [My Website](https://github.com/micsmania/michelesmania.github.io)
+- [To Do List App](https://github.com/micsmania/todo-list-app)
+- [Mobile Order App](https://github.com/micsmania/mobile-order-app)
+- [Invoice Generator](https://github.com/micsmania/invoice-generator)
 
 
 ## 📫 How to reach me:
