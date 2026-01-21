@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+My name is Michele Smania
+
+## Skills and Technologies
+- Javascript, Python, Java, PHP
+- Bash, Powershell
+- HTML, CSS, Bootstrap
+- Git
+- VS Code, IntelliJ Idea
+
+
+## 📫 How to reach me:
+- Email: michelesmania@gmail.com
+- LinkedIn: [Michele Smania](https://www.linkedin.com/in/michelesmania/)
 <!--
 **micsmania/micsmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
