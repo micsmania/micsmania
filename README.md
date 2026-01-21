@@ -32,6 +32,6 @@ Take a look at my [gists.](https://gist.github.com/micsmania)
 ---
 
 ## 🎨 Fun & Hobbies
-- 🗣️ Languages
+- 🌍 Languages
 - 🎾 Tennis
 - 🎮 Gaming
