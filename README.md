@@ -8,7 +8,7 @@ My name is Michele and I am currently attending an Umschulung as Anwendungsentwi
 - **Version Controlling:** Git
 - **IDE:** VS Code, IntelliJ Idea
 
-## <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d26c70a7-9151-410c-a248-7cdad1f0098f" /> Main Projects
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d26c70a7-9151-410c-a248-7cdad1f0098f" /> Main Projects
 - [My Website](https://github.com/micsmania/michelesmania.github.io)
 - [To Do List App](https://github.com/micsmania/todo-list-app)
 - [Mobile Order App](https://github.com/micsmania/mobile-order-app)
