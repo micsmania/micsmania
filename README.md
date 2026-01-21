@@ -2,8 +2,8 @@
 
 ---
 
-## Who am I?
-- 💻 **Application Developer** | Passionate about JavaScript  
+## Who am I
+- 💻 **Application Developer** | Based in Essen 🇩🇪  
 - 🚀 I love building web apps and experimenting new tools
 - 👉 Visit my [Portfolio](https://michelesmania.com/)
 
@@ -36,6 +36,6 @@ Take a look at my [gists.](https://gist.github.com/micsmania)
 ---
 
 ## 🎨 Fun & Hobbies
-- 🌍 Languages
+- 🌍 Languages 🇮🇹🇬🇧🇩🇪🇪🇸
 - 🎾 Tennis
 - 🎮 Gaming
