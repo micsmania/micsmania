@@ -20,6 +20,11 @@ My name is Michele and I am currently attending an Umschulung as Anwendungsentwi
 
 ---
 
+## <> Gists
+Take a look at my [gists.](https://gist.github.com/micsmania)
+
+---
+
 ## 📫 Connect with me:
 - Email: michelesmania@gmail.com
 - LinkedIn: [Michele Smania](https://www.linkedin.com/in/michelesmania/)
