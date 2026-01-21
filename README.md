@@ -3,11 +3,11 @@
 My name is Michele Smania and I am currently attending an Umschulung as Anwendungsentwicklung in Essen, Germany.
 
 ## 👨🏻‍💻 Skills and Technologies
-- Javascript, Python, Java, PHP
+- **Languages:** Javascript, Python, Java, PHP
 - Bash, Powershell
-- HTML, CSS, Bootstrap
-- Git
-- VS Code, IntelliJ Idea
+- **Frontend:** HTML, CSS, Bootstrap
+- **Version Controlling:** Git
+- **IDE:** VS Code, IntelliJ Idea
 
 ## Main Projects
 - [My Website](https://github.com/micsmania/michelesmania.github.io)
