@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there, my name is Michele 👋
 
-My name is Michele and I am currently attending an Umschulung as Anwendungsentwicklung in Essen, Germany.
+## Who am I?
+💻 **Application Developer** | Passionate about JavaScript  
+🚀 I love building web apps and experimenting new tools.
+👉 Visit my [Portfolio](https://michelesmania.com/)
 
 ---
 
@@ -13,7 +16,6 @@ My name is Michele and I am currently attending an Umschulung as Anwendungsentwi
 ---
 
 ## 🏗️ Main Projects
-- [My Website](https://github.com/micsmania/michelesmania.github.io)
 - [To Do List App](https://github.com/micsmania/todo-list-app)
 - [Mobile Order App](https://github.com/micsmania/mobile-order-app)
 - [Invoice Generator](https://github.com/micsmania/invoice-generator)
