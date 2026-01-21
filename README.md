@@ -20,11 +20,18 @@ My name is Michele and I am currently attending an Umschulung as Anwendungsentwi
 
 ---
 
+## 📈 GitHub Stats
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=micsmania&show_icons=true&theme=radical)
+
+---
+
 ## 📫 Connect with me:
 - Email: michelesmania@gmail.com
 - LinkedIn: [Michele Smania](https://www.linkedin.com/in/michelesmania/)
 
 ---
 
-## Fun & Hobbies
-- 🗣️ Languages: 🇮🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇪🇸
+## 🎨 Fun & Hobbies
+- 🗣️ Languages
+- 🎾 Tennis
+- 🎮 Gaming
