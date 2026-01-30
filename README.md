@@ -15,7 +15,7 @@
 - **Version Controlling:** Git
 - **IDE:** VS Code, IntelliJ Idea
 
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=compact&theme=dracula&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USER&layout=compact&theme=dracula)
 
 ---
 
