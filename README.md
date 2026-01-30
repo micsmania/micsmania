@@ -16,6 +16,7 @@
 - **IDE:** VS Code, IntelliJ Idea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micsmania&layout=compact&theme=dracula&include_all_commits=true&count_private=true)
+![Linguaggi di micsmania](https://github-readme-stats.vercel.app/api/top-langs/?username=micsmania&layout=compact&theme=dracula&langs_count=5)
 ---
 
 ## 🏗️ Main Projects
