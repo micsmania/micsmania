@@ -16,7 +16,6 @@
 - **IDE:** VS Code, IntelliJ Idea
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micsmania&layout=compact&theme=dark)](https://github.com/micsmania/github-readme-stats)
 
 ## 🏗️ Main Projects
 - [To Do List App](https://github.com/micsmania/todo-list-app)
